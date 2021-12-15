@@ -1,0 +1,12 @@
+D:\Documentos\Visual Studio 2019\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Documentos\Visual Studio 2019\Proyecto\bin\Debug\Proyecto.exe
+D:\Documentos\Visual Studio 2019\Proyecto\bin\Debug\Proyecto.pdb
+D:\Documentos\Visual Studio 2019\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\Documentos\Visual Studio 2019\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Documentos\Visual Studio 2019\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2019\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Proyecto\obj\Debug\Proyecto.exe
+D:\Documentos\Visual Studio 2019\Proyecto\obj\Debug\Proyecto.pdb
+D:\Documentos\Visual Studio 2019\Proyecto\bin\Debug\Datos.dll
+D:\Documentos\Visual Studio 2019\Proyecto\bin\Debug\Datos.pdb

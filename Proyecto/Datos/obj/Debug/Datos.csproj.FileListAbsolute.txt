@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2019\Proyecto\Datos\bin\Debug\Datos.dll
+D:\Documentos\Visual Studio 2019\Proyecto\Datos\bin\Debug\Datos.pdb
+D:\Documentos\Visual Studio 2019\Proyecto\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Proyecto\Datos\obj\Debug\Datos.dll
+D:\Documentos\Visual Studio 2019\Proyecto\Datos\obj\Debug\Datos.pdb
